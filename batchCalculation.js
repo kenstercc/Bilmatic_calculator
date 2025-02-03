@@ -33,6 +33,7 @@ const processTask = async (task) => {
   const filteredData = data.filter(row => row.contract_billing_item === item); 
    
   
+  
   const variable = {
     "qty": task.item_count,
     "value": task.account_value
