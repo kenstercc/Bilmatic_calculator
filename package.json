@@ -1,0 +1,24 @@
+{
+  "name": "mydb",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "database.js",
+  "scripts": {
+    "start": "nodemon database.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mathjs": "^14.0.1",
+    "mysql2": "^3.11.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

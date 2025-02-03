@@ -1,0 +1,79 @@
+[
+  {
+    "business_party_value_1": "company01",
+    "business_party_value_2": "office01",
+    "business_party_value_3": "0",
+    "billing_event": "jocan",
+    "item_count": 1100,
+    "account_value": 0,
+    "status": "completed",
+    "fee_amount": "5,000",
+    "legend": "Maximum fee applied"
+  },
+  {
+    "business_party_value_1": "company01",
+    "business_party_value_2": "office01",
+    "business_party_value_3": "0",
+    "billing_event": "eclgu",
+    "item_count": 1200,
+    "account_value": 0,
+    "status": "completed",
+    "fee_amount": "3,000",
+    "legend": "Minimum fee applied"
+  },
+  {
+    "business_party_value_1": "company01",
+    "business_party_value_2": "office01",
+    "business_party_value_3": "0",
+    "billing_event": "starc",
+    "item_count": 1300,
+    "account_value": 0,
+    "status": "completed",
+    "fee_amount": "5,000",
+    "legend": "Maximum fee applied"
+  },
+  {
+    "business_party_value_1": "company01",
+    "business_party_value_2": "office01",
+    "business_party_value_3": "0",
+    "billing_event": "wecan",
+    "item_count": 1400,
+    "account_value": 0,
+    "status": "completed",
+    "fee_amount": "5,000",
+    "legend": "Maximum fee applied"
+  },
+  {
+    "business_party_value_1": "company02",
+    "business_party_value_2": "office02",
+    "business_party_value_3": "0",
+    "billing_event": "eclgu",
+    "item_count": 0,
+    "account_value": 2100,
+    "status": "completed",
+    "fee_amount": "2,000",
+    "legend": " "
+  },
+  {
+    "business_party_value_1": "company02",
+    "business_party_value_2": "office02",
+    "business_party_value_3": "0",
+    "billing_event": "gucan",
+    "item_count": 0,
+    "account_value": 2200,
+    "status": "completed",
+    "fee_amount": "2,000",
+    "legend": " "
+  },
+  {
+    "business_party_value_1": "company02",
+    "business_party_value_2": "office02",
+    "business_party_value_3": "0",
+    "billing_event": "trigu",
+    "item_count": 2300,
+    "account_value": 0,
+    "status": "completed",
+    "fee_amount": "5,000",
+    "legend": "Maximum fee applied"
+  }
+]
